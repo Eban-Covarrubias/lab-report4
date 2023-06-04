@@ -14,6 +14,7 @@ The keys used are ```< up >``` and ```< enter >```
   
 # Step 3 Run the tests, demonstrating that they fail
   ![image](failtest.png)
+  
   switch into lab7 directory by using ```cd lab7/```
   The keys used for this are ```cd``` and then ```l``` and ```< tab >``` to autofill then ```< enter >```.
   Then type ```ls``` ```< enter >``` to run list command and see files inside (Optional step)
@@ -22,6 +23,7 @@ The keys used are ```< up >``` and ```< enter >```
   
 # Step 4 Edit the code file to fix the failing test
   ![image](vim.png)
+  
   Type the command ```vim ListExamples.java``` 
   The keys used are letters for ```vim``` and then ```L``` and ```< tab >``` with ```.``` and ```< tab >``` to autofill the rest of the command, we run the command with ```< enter >```
   Once we are in vim type the command ```/index1``` then click ```< enter >``` and press ```n``` 7 times to get to the correct line.
@@ -30,6 +32,7 @@ The keys used are ```< up >``` and ```< enter >```
   
 # Step 5 Run the tests, demonstrating that they now succeed
   ![image](goodtest.png)
+  
   press ```< up >``` two times to get to your old command of ```bash test.sh``` and press ```< enter >```
   
 # Step 6 Commit and push the resulting change to your Github account (you can pick any commit message!)
