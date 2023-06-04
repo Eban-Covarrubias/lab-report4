@@ -15,7 +15,7 @@ The keys used are ```< up >``` and ```< enter >```
 # Step 3 Run the tests, demonstrating that they fail
   ![image](failtest.png)
   
-  switch into lab7 directory by using ```cd lab7/```
+  switch into lab7 directory by using ```cd lab7/``` command.
   The keys used for this are ```cd``` and then ```l``` and ```< tab >``` to autofill then ```< enter >```.
   Then type ```ls``` ```< enter >``` to run list command and see files inside (Optional step)
   Then we can run ```bash test.sh```
